@@ -20,10 +20,10 @@
     "url": "https://github.com/malexarcos/team-profile-generator/issues"
   },
   "homepage": "https://github.com/malexarcos/team-profile-generator#readme",
-  "dependencies": {
-    "inquirer": "8.2.4"
-  },
   "devDependencies": {
     "jest": "^29.2.2"
+  },
+  "dependencies": {
+    "inquirer": "^8.2.4"
   }
 }
